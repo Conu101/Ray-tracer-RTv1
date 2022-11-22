@@ -1,0 +1,24 @@
+OBJECTS 2
+LIGHTS 1
+COLOR 0 0 0
+CAMERA
+pos 0 0 30
+fov 60.0
+dir 0 0 0
+#
+LIGHT
+type 0
+col 1 1 1
+rot -30 0 0
+int 1
+#
+SPHERE
+pos 0 0 0
+col 0.7 0.2 0.1
+rad 4.0
+# move sphere to position -10 0 0 and press space
+SPHERE
+pos 0 0 0
+col 0.1 0.2 0.7
+rad 4.0
+#

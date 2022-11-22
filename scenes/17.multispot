@@ -1,0 +1,48 @@
+OBJECTS 5
+LIGHTS 2
+COLOR 0 0 0
+CAMERA
+fov 30.0
+pos 0.0 10 30.0
+dir 0 5 0
+#
+LIGHT
+type 1
+pos 12 7 12
+col 0 1 1
+int 1
+#
+LIGHT
+type 1
+pos -12 7 12
+col 1 0 1
+int 1
+#
+CONE
+pos -3 8 0
+col 0.7 0.1 0.5
+rot 0 0 0
+rad .5
+#
+SPHERE
+pos 0 1 0
+col 0 1 1
+rad 3
+#
+SPHERE
+pos -6 0 0
+col 1 1 0
+rad 3
+#
+CYLINDER
+pos -3 0 -10
+col 0.6 0.2 0.6
+rad 1.5
+rot 0 0 -45
+#
+CYLINDER
+pos 6 0 -10
+col 0.6 0.2 0.6
+rad 1.5
+rot 0 0 45
+#

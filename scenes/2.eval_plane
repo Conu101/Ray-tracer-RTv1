@@ -1,0 +1,19 @@
+OBJECTS 1
+LIGHTS 1
+COLOR 0 0.1 0.2
+CAMERA
+fov 30.0
+pos 0.0 10 30.0
+dir 0 0 0
+#
+LIGHT
+type 1
+col 1 1 1
+pos 0 10 30
+int 1
+#
+PLANE
+pos 0 0 0
+col 0.8 0.6 0.8
+rot 0 0 0
+#

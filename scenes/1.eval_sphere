@@ -1,0 +1,21 @@
+
+OBJECTS 1
+LIGHTS 1
+COLOR 0 0 0
+#
+CAMERA
+pos 0.0 0.0 20.0
+dir 0.0 0.0 0.0
+fov 60
+#
+LIGHT
+type 1
+col 1 1 1
+pos 12 10 20
+int 1
+#
+SPHERE
+pos 0 0 0
+col 0.8 0.1 0.1
+rad 4
+#
