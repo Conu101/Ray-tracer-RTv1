@@ -81,22 +81,16 @@ The user interface allows the following actions during rendering through keypres
 <a href="https://github.com/conu101/Ray-tracer-RTv1">
     <img src="images/param_file.png" alt="param" width="452" height="600">
 </a>
-
-  <br />
-  <br />
-  <br />
 Example of parameter file describing a cyan sphere over a purple plane, lit by a spot placed vertically.
+  <br />
+  <br />
+  <br />
+
 
 <a href="https://github.com/conu101/Ray-tracer-RTv1">
     <img src="images/sphere_plane.png" alt="sphere_plane" width="1000" height="600">
 </a>
-
-  <br />
-  <br />
-  <br />
-
 Result rendered with RTv1
-
   <br />
   <br />
   <br />
